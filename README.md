@@ -8,7 +8,7 @@ Aplicación web interactiva para generar paletas de colores aleatorias
 
 ### 🔗 GitHub Pages
 
-https://gonzalob1.github.io/ProyectoM1_GonzaloBastias-/
+https://gonzalob1.github.io/crea-tus-paletas-de-colores-/
 
 ### 🔗 Repositorio GitHub
 
